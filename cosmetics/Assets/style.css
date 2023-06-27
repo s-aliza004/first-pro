@@ -1,0 +1,237 @@
+.box1 {
+    border: 1px solid rgb(231, 9, 46);
+    background-color: rgb(231, 9, 46);
+    height: 30px;
+}
+
+ul {
+    float: left;
+    color: white;
+}
+
+ul li {
+    margin-top: -10px;
+    float: left;
+    position: relative;
+    left: 300%;
+    width: 100px;
+    font-size: 14px;
+    font-family: barlow condensed, sans-serif;
+    list-style-type: none;
+}
+
+ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+h5 {
+    margin-top: 1px;
+    color: white;
+    margin: 7px 12px;
+    position: relative;
+    left: -18%;
+    font-weight: normal;
+    font-family: barlow condensed, sans-serif;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+.subbox {
+    border: 1px solid transparent;
+    background-color: whitesmoke;
+    height: 50px;
+}
+
+ol {
+    float: left;
+}
+
+ol li {
+    float: left;
+    width: 90px;
+    position: relative;
+    left: 25%;
+    font-family: barlow condensed, sans-serif;
+    list-style-type: none;
+    font-size: 18px;
+}
+
+ol li a {
+    text-decoration: none;
+    color: black;
+}
+
+ol li a:hover {
+    border-bottom: 4px solid rgb(231, 9, 46);
+}
+
+.fa-search {
+    position: absolute;
+    left: 82%;
+    top: 9%;
+    color: black;
+}
+
+.fa-user {
+    position: absolute;
+    left: 85%;
+    top: 9%;
+    color: black;
+}
+
+.fa-shopping-cart {
+    position: absolute;
+    left: 88%;
+    top: 9%;
+    color: black;
+    width: 25px;
+    height: -30px;
+    border-radius: 100px;
+    background-color: navajowhite;
+    margin-top: -2px;
+    margin-left: -4px;
+    text-align: left;
+}
+
+.headfour{
+    color: rgb(231, 9, 46);
+    position: absolute;
+    left: 88.8%;
+    top: 4%;
+    width: 18px;
+    height: -50px;
+    border-radius: 100px;
+    text-align: center;
+    font-family: barlow condensed, sans-serif;
+
+}
+
+h2 {
+    position: relative;
+    left:-26%;
+    text-transform: uppercase;
+    font-family: barlow condensed, sans-serif;
+    margin-top: 12px;
+    font-weight: bolder;
+    color: rgb(190, 26, 53);
+    top:21%;
+}
+
+.cover img {
+    background-size: cover;
+    height: 530px;
+    width: 100%;
+}
+
+.img1 {
+    position: absolute;
+    border: 1px solid rgba(241, 28, 64, 0.733);
+    box-shadow: 1px 3px 9px;
+
+
+}
+
+.img2 {
+    position: absolute;
+    left: 26%;
+    border: 1px solid rgba(241, 28, 64, 0.733);
+    box-shadow: 1px 3px 9px;
+
+}
+
+.img3 {
+    position: absolute;
+    left: 51.2%;
+    border: 1px solid rgba(241, 28, 64, 0.733);
+    box-shadow: 1px 3px 9px;
+
+}
+
+.img4 {
+    position: absolute;
+    left: 76.9%;
+    border: 1px solid rgba(241, 28, 64, 0.733);
+    box-shadow: 1px 3px 9px;
+
+}
+
+.ban2 {
+    background-size: cover;
+    height: 530px;
+    width: 100%;
+    background-position: center;
+}
+
+.heading1 {
+    position: absolute;
+    top: 12%;
+    font-size: 45px;
+    color: black;
+    text-align: center;
+    transition: background-color 2s, text-shadow 1s;
+    font-family: sans-serif;
+}
+
+.heading1:hover {
+    background: burlywood;
+    text-shadow: black;
+    text-decoration-line: underline;
+    border-radius: 2px;
+
+}
+
+.para1 {
+    font-family: barlow condensed, sans-serif;
+    position: absolute;
+    top: 91%;
+    left: 37%;
+    transition: backgroud-color 1s;
+    text-align: justify;
+
+}
+.para1:hover{
+    background: rgba(209, 209, 0, 0.61);
+
+}
+.para2 {
+    position: absolute;
+    top: 119%;
+    left: 37%;
+    font-family: barlow condensed, sans-serif;
+    text-align: justify;
+
+}
+.para2:hover{
+    background: rgba(209, 209, 0, 0.61);
+
+}
+.heading2{
+    font-weight: bolder;
+    top: 83%;
+    left: 37%;
+    color: goldenrod;
+    position: absolute;
+    text-decoration-line: underline;
+}
+  .imghome3{
+  
+    position: absolute;
+    left: 76.9%;
+    border: 1px solid rgba(241, 28, 64, 0.733);
+    box-shadow: 1px 3px 9px;
+  }  
+.para3{
+    position: absolute;
+    right: 24%;
+    font-family: barlow condensed, sans-serif;
+    text-align: justify;
+}
+.para3:hover{
+    background: rgba(209, 209, 0, 0.61);
+
+}
+
+.headpro{
+    text-align: center;
+}
